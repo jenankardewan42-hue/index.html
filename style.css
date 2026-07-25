@@ -1,0 +1,143 @@
+</>  CSS
+
+/*  Generate Page Style */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color:  #f5f5f5;
+    color:  #333;
+
+}
+
+
+
+ /* Header  */
+
+
+ header {
+    background-color: #222;
+    color: white;
+    text-align: centre;
+    padding:  30px;
+ }
+
+
+ /* Navigation */
+
+ nav {
+    background-color: #444;
+    text-align:  centre;
+    padding:  15px;
+ }
+
+
+ nav a {
+    color: white;
+    text-decoration: none;
+    margin:  15px;
+    font-wight: bold;
+
+ }
+
+
+ /*  Hero Section */
+
+
+ .hero {
+    text-align:  centre;
+    padding:  60px  20px;
+    background-color: #e8f4ff;
+ }
+
+
+ /* Section */
+
+
+ section {
+    padding:  40px 20px;
+    text-align:  centre;
+ }
+
+
+ /* Product Container */
+
+ .product-container {
+    display: flex;
+    justify-contact: centre;
+    gap:  25px;
+    flex-wrap: wrap;
+ }
+
+
+ /* Product Card */
+
+ .product-container {
+    display: flex;
+    justify-contact: centre;
+    gap: 25px;
+    flex-wrap: wrap;
+
+ }
+
+
+ /* Product Card */
+
+ .product-card {
+    background-color: centre;
+    width: 280px;
+    padding: 20px;
+    border-radius; 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+ }
+
+
+ /* Product Images */
+
+
+ .product-card img {
+    width: 100%
+    height: 200px;
+    object-fit: contain;
+ }
+
+
+ /*  Button */
+
+
+ .button {
+    display: inline-block;
+    background-color:  #007BFF;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius:  5px;
+    margin-top: 10px;
+
+
+ }
+
+ .button:hover {
+    backgroound-color: #0056b3;
+
+ }
+
+
+ /* Affiliate Discover */
+
+
+ .disclosure {
+    background-color: 3fff3cd;
+
+ }
+
+
+ /* Footer */
+
+ footer {
+    background-color: #222;
+    color: white;
+    text-align: centre;
+    paddling: 20px;
+    
+ }
